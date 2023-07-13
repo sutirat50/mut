@@ -1,0 +1,3 @@
+<? echo "test"; ?>
+<? echo "zax" ;?>
+<? echo "5555"; ?>
